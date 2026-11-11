@@ -188,3 +188,4 @@ O DAO devolve um `Flow`; quando a tabela muda, o Room emite os novos dados, o `V
 
 - Não há autenticação, backend nem sincronização em nuvem, conforme o escopo da atividade.
 - As sugestões de exemplo e as dicas da tela inicial são conteúdos locais e ilustrativos.
+- Os prints estão em `docs/screenshots/`. Se o preview do README não carregar as imagens locais no Android Studio, abra o arquivo no VS Code ou veja o repositório no GitHub: [https://github.com/Feteixeira/GS_Kotlin.git].
