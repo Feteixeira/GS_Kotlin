@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Gota d'água com um raio dentro: água + energia. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30 C54,30 36,51 36,63 A18,18 0 0,0 72,63 C72,51 54,30 54,30 Z" />
+    <path
+        android:fillColor="#F9A825"
+        android:pathData="M57,48 L46,66 L53,66 L50,78 L62,59 L55,59 Z" />
+</vector>

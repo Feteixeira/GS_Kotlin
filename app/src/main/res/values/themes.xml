@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema base da janela; as cores do app são definidas no Compose (ui/theme). -->
+    <style name="Theme.ConsumoConsciente" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
